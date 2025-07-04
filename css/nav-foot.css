@@ -160,6 +160,11 @@ body {
     width: 300px;
 }
 
+.quick{
+    text-decoration: none;
+    color: white;
+}
+
 p {
     font-weight: 100;
     font-size: 15px;
