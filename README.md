@@ -44,4 +44,4 @@ Currently, the content is available in **English**, and plans are in place to ad
 *Bhartiya Virasat is not just a project—it is a tribute to the spirit of Bharat. It reminds us where we came from, what we stand for, and how our stories can shape a brighter future. Jai Hind! 🇮🇳*
 
 ## Our Team
- [./images/team/prasad.jpg]
+(./images/team/prasad.jpg)
