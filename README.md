@@ -45,3 +45,4 @@ Currently, the content is available in **English**, and plans are in place to ad
 
 ## Our Team
 [prasad](./images/team/prasad.jpg)
+[sakshi](./images/team/sakshi.jpg)
