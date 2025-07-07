@@ -43,6 +43,11 @@ Currently, the content is available in **English**, and plans are in place to ad
 
 *Bhartiya Virasat is not just a project—it is a tribute to the spirit of Bharat. It reminds us where we came from, what we stand for, and how our stories can shape a brighter future. Jai Hind! 🇮🇳*
 
-## Our Team
-[prasad](./images/team/prasad.jpg)
-[sakshi](./images/team/sakshi.jpg)
+## Our Team 
+
+<img src="images/team/prasad.jpg" alt="Prasad Shirfule" width="50" height="50" style="border-radius: 50%; margin: -10px;" />
+<img src="images/team/sakshi.jpg" alt="Sakshi Vitnor" width="50" height="50" style="border-radius: 50%; margin: -10px;"/>
+<img src="images/team/utkarsha.jpg" alt="Utkarsha" width="50" height="50" style="border-radius: 50%; margin: -10px;"/>
+<img src="images/team/kalyani.jpg" alt="Kalyani Murkute" width="50" height="50" style="border-radius: 50%; margin: -10px;"/>
+<img src="images/team/rahul.jpg" alt="Rahul Naktode" width="50" height="50" style="border-radius: 50%; margin: -10px;"/>
+<img src="images/team/anshu.jpg" alt="Anshu Khajare" width="50" height="50" style="border-radius: 50%; margin: -10px;"/>
